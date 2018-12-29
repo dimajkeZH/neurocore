@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="70px" viewBox="0 0 56 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>A8362C62-0878-4267-855A-09D95A03C6B3</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Модуль_Распознавания-классов-машин" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Модуль_Распознавания-классов-машин-2" transform="translate(-1256.000000, -2044.000000)">
+            <g id="dot3" transform="translate(1256.000000, 2044.000000)">
+                <g id="Group-4-Copy-3" transform="translate(20.000000, 0.000000)" fill="#56BF98">
+                    <circle id="Oval-Copy-9" fill-rule="nonzero" opacity="0.4" cx="18" cy="18" r="3"></circle>
+                    <circle id="Oval-Copy-8" fill-rule="nonzero" opacity="0.156417411" cx="18" cy="18" r="8"></circle>
+                    <circle id="Oval-Copy-7" fill-rule="nonzero" opacity="0.08" cx="18" cy="18" r="18"></circle>
+                </g>
+                <g id="Group-10-Copy-2" opacity="0.40359933" transform="translate(0.000000, 15.000000)">
+                    <polyline id="Path" stroke="#979797" opacity="0.4" fill-rule="nonzero" points="2 3 39.3615383 3 39.3615383 53.8222172"></polyline>
+                    <circle id="Oval" fill="#56BF98" fill-rule="nonzero" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-Copy-3" fill="#56BF98" fill-rule="nonzero" cx="39" cy="3" r="3"></circle>
+                    <circle id="Oval-Copy-4" fill="#56BF98" fill-rule="nonzero" cx="39" cy="52" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
